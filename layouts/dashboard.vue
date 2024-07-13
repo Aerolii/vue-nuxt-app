@@ -26,7 +26,10 @@ const navs = [
 				</NuxtLink>
 			</div>
 		</div>
-		<slot />
+		<div>
+			<div class="h-14 border-b px-3"></div>
+			<NuxtPage />
+		</div>
 	</div>
 </template>
 
