@@ -5,13 +5,7 @@ definePageMeta({
 </script>
 
 <template>
-	<div>
-		<h1>Dashboard</h1>
-		<p>aaa</p>
-		<section>
-			<TransitionList />
-		</section>
-	</div>
+	<div>todo view</div>
 </template>
 
 <style scoped></style>
