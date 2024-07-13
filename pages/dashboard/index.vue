@@ -5,7 +5,12 @@ definePageMeta({
 </script>
 
 <template>
-	<div>dashboard</div>
+	<div>
+		<h1>Dashboard</h1>
+		<section>
+			<TransitionList />
+		</section>
+	</div>
 </template>
 
 <style scoped></style>
